@@ -1,0 +1,1 @@
+tagging interface adalah interface tanpa abstrak metode di dalam , mereka digunakan untuk menambahkan gol tipe data untuk kelas yang mengimplementasikan mereka dan menjadi orangtua interface untuk lain interface ( terutama dengan beberapa warisan dalam interface )
